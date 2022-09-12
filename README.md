@@ -7,7 +7,7 @@ I'm Tony from France, living in Lyon, Telecom engineering student at INSA Lyon. 
 -->
 Actually:
 
-- 🔭 I’m currently working on a new [Online Course][courses] ...
+- 🔭 I’m currently working on [Online Course][react] 
 - 🌱 I’m currently learning React <img align="center" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 - 📫 How to reach me: [Linkedin][linkedin] or email (sontony.dinh@gmail.com)
 
@@ -29,6 +29,5 @@ Actually:
 
 
 [linkedin]: www.linkedin.com/in/son-tony-dinh-7155b51a2
-
-
+[react]: https://reactjs.org/docs/getting-started.html
 
