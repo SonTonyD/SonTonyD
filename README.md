@@ -9,7 +9,7 @@ Actually:
 
 - 🔭 I’m currently working on a new [Online Course][courses] ...
 - 🌱 I’m currently learning React <img align="center" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-- 📫 How to reach me: <a href="www.linkedin.com/in/son-tony-dinh-7155b51a2">Linkedin</a> or email (sontony.dinh@gmail.com)
+- 📫 How to reach me: [Linkedin][www.linkedin.com/in/son-tony-dinh-7155b51a2] or email (sontony.dinh@gmail.com)
 
 
 ### Languages and Tools:
