@@ -6,8 +6,8 @@ I'm Tony from France, living in Lyon, Telecom engineering student at INSA Lyon. 
 **SonTonyD/SonTonyD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on an [Online Course][react] 
-- 🌱 I’m currently learning Java Spring Boot
+- 🔭 I’m currently working on a video game (Unity) 
+- 🌱 I’m currently learning Java Spring 
 - 📫 How to reach me: [Linkedin][linkedin] or email (sontony.dinh@gmail.com)
 
 
