@@ -1,14 +1,13 @@
 # Son-Tony Dinh
-I'm Tony from France, living in Lyon, Telecom engineering student at INSA Lyon. I really enjoy learning languages and frameworks like JS and Angular. 
+Développeur Java / Full-stack avec 2 ans d’expérience, dont 1 an en TMA sur des applications critiques. Passionné par les projets full-stack intégrant de l’IA, je travaille principalement avec Java Spring, Angular et FastAPI. Je développe aussi des outils innovants basés sur l’intelligence artificielle, avec une forte appétence pour l’automatisation et l’amélioration continue.
 
 
 <!--
 **SonTonyD/SonTonyD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a video game (Unity) 
-- 🌱 I’m currently learning Java Spring 
-- 📫 How to reach me: [Linkedin][linkedin] or email (sontony.dinh@gmail.com)
+- 🔭 Je travaille actuellement sur Interview AI Assistant :  https://github.com/SonTonyD/interview-ai-assistant
+- 📫 Comment me contacter ? : [Linkedin][linkedin] or email (sontony.dinh@gmail.com)
 
 
 ### Languages and Tools:
@@ -28,5 +27,4 @@ I'm Tony from France, living in Lyon, Telecom engineering student at INSA Lyon. 
 
 
 [linkedin]: www.linkedin.com/in/son-tony-dinh-7155b51a2
-[react]: https://reactjs.org/docs/getting-started.html
 
